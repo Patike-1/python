@@ -1,0 +1,34 @@
+{
+  "student_id": 1,
+  "isic_id": "ISIC123",
+  "first_name": "Janko",
+  "last_name": "Hrasko",
+  "class_name": "IV.A",
+  "email": "janko@example.com",
+  "subjects": {
+    "matematika": [
+      {
+        "event_name": "test_1",
+        "points": 8,
+        "base": 10
+      },
+      {
+        "event_name": "test_2",
+        "points": 6,
+        "base": 10
+      }
+    ],
+    "programovanie": [
+      {
+        "event_name": "du1",
+        "points": 3,
+        "base": 10
+      },
+      {
+        "event_name": "test_1",
+        "points": 9,
+        "base": 10
+      }
+    ]
+  }
+}
